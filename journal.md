@@ -5,4 +5,6 @@
 10.10.2022 - Added weather dataset of Seattle for 10 years and another dataset of 30 different US and Canadian cities for 5 years of comprehensive weather data for over 5 years. Both datasets from Kaggle. 
 \
 10.25.2022 - Created an iPython file and did a some data analysis on the seattle-weather.csv dataset
+\
+10.27.2022 - Thought about the data and what I can do with it. Debating whether weather prediction was a useful objective and how I would go about it. Considering changing my idea to detecting deforestation in the Amazon Rainforest using a kaggle dataset of sateille images of various locations in the Amazon Rainforest. Crafting a tool for automatic detection of deforestation can be used on sateille images to alert interested parties and authorities early on so that action can be taken.
 
