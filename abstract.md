@@ -1,1 +1,3 @@
 **Detecting Deforestation from Satellite Images**
+
+We are currently facing a climate change crisis, with the world producing 52 billion tonnes of CO2 every year. One of the contributors to climate change is deforestation. Trees are natural carbon sinks that capture C02 from the atmosphere. When cutting down trees, we are reducing the amount of C02 that nature is capturing from the atmosphere and puts more of the burden on us. Beside reducing carbon capturing trees, deforestation also disrupts the ecosystem and can could potentially have negative effects on wild life, food sources, water reserves, and more.
