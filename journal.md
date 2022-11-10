@@ -10,6 +10,9 @@
 \
 11.1.2022
 Downloaded Amazon Rainforest dataset and tried to understand the data and do a bit of preprocessing.
+\
+11.10.2022
+Wrote the abstract and performed some exploratory data analysis
 
 
 
