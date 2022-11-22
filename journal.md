@@ -13,6 +13,10 @@ Downloaded Amazon Rainforest dataset and tried to understand the data and do a b
 \
 11.10.2022
 Wrote the abstract and performed some exploratory data analysis
+\
+11.22.2022
+Started building the CNN model and prepared data for training.
+
 
 
 
