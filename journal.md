@@ -16,6 +16,10 @@ Wrote the abstract and performed some exploratory data analysis
 \
 11.22.2022
 Started building the CNN model and prepared data for training.
+\
+11.25.2022
+Starting training the CNN model
+
 
 
 
