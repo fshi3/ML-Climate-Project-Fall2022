@@ -19,6 +19,10 @@ Started building the CNN model and prepared data for training.
 \
 11.25.2022
 Starting training the CNN model
+\
+12.1.2022
+Working on improvement the accuracy of the model
+
 
 
 
