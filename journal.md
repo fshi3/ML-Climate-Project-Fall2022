@@ -18,10 +18,10 @@ Wrote the abstract and performed some exploratory data analysis
 Started building the CNN model and prepared data for training.
 \
 11.25.2022
-Starting training the CNN model
+Starting training the CNN model, having some trouble loading the data fast enough into the pipeline
 \
 12.1.2022
-Working on improvement the accuracy of the model
+Working on improvement the accuracy of the model. Right now only able to load 2,000 of 40,000 images in at a reasonable speed. Working on loading more data later on. Accuracy able to achieve 80% on validation set. Tried a standard multi-layer CNN model with convolutional layers, max pooling, and final dense layer with sigmoid activation for binary classification. Also tried to do transfer learning using ResNet50. Results are worse than my own model. Tried using stratified splitting, but didn't see any accuracy difference between models.
 
 
 
