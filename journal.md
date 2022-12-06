@@ -22,6 +22,10 @@ Starting training the CNN model, having some trouble loading the data fast enoug
 \
 12.1.2022
 Working on improvement the accuracy of the model. Right now only able to load 2,000 of 40,000 images in at a reasonable speed. Working on loading more data later on. Accuracy able to achieve 80% on validation set. Tried a standard multi-layer CNN model with convolutional layers, max pooling, and final dense layer with sigmoid activation for binary classification. Also tried to do transfer learning using ResNet50. Results are worse than my own model. Tried using stratified splitting, but didn't see any accuracy difference between models.
+\
+12.5.2022
+Recorded the project presentation and uploaded
+
 
 
 
