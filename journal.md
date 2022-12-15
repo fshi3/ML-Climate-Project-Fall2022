@@ -26,11 +26,14 @@ Working on improvement the accuracy of the model. Right now only able to load 2,
 12.5.2022
 Recorded the project presentation and uploaded
 \
+12.12.2022
+Worked on writing the paper. Gathered sources and write the outline.
+\
 12.14.2022
-Ran model on a larger dataset of 16,000 images of the 40,000 using Jupyter Notebook on a powerful desktop instead of using Google Colab. It was fast enough to be able to run it in a reasonable amount of time (approx. 1 hour 30 mins). We able to achieve higher accuracy then the smaller dataset. Also experimented with transfering learning using EfficientNetB0 and it fit the training data well, but performed really poorly on the validation set.
+Ran model on a larger dataset of 16,000 images of the 40,000 using Jupyter Notebook on a powerful desktop instead of using Google Colab. It was fast enough to be able to run it in a reasonable amount of time (approx. 1 hour 30 mins). We able to achieve higher accuracy then the smaller dataset. Also experimented with transfering learning using EfficientNetB0 and it fit the training data well, but performed really poorly on the validation set. Worked on writing the paper.
 \
 12.15.2022
-Ran grid search for hyperparameter tuning using different learning rates and model architecture. Ultimately none of them outperformed what I already had. If I had more time I would try random search using other parameters like batch size as well and maybe try bayesian optimization.
+Ran grid search for hyperparameter tuning using different learning rates and model architecture. Ultimately none of them outperformed what I already had. If I had more time I would try random search using other parameters like batch size as well and maybe try bayesian optimization. Worked on writing the paper.
 
 
 
